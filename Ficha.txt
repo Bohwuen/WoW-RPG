@@ -113,6 +113,7 @@ Pesca 			⚪⚪⚪⚪⚪
 Arqueología 		⚪⚪⚪⚪⚪
 Médico 			⚪⚪⚪⚪⚪
 Cocina 			⚪⚪⚪⚪⚪
+con. magia		⚪⚪⚪⚪⚪
 
 MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
 
