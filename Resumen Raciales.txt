@@ -2,227 +2,150 @@ Razas y raciales
 
  
 Humano
-	Habilidades raciales comunes:
-		+1 en carisma.
-		+1 aprendizaje.
-		+1 en dos profesiones seleccionadas.
-	Ventormenta
-		+1 en tiradas de supervivencia en situaciones de pérdida de control.
-		+1 en fe.
-		+1 en espadas y mazas.
-	Lordaeron
-		+1 en carisma.
-		+1 en mercader.
-		+1 en espadas y mazas.
-	Dalaran
-		+1 en Taumaturgia o Caos.
-		+1 en conocimiento de la magia.
-		+1 en bastones y varitas
-	Gilneas
-		+1 en armas de fuego.
-		+1 extra en una de las profesiones previamente seleccionadas.
-	Alterac
-		+1 en tiradas de supervivencia en entornos helados.
-		Fiereza guerrera: durante los siguientes tres turnos ganas +2 en tiradas de ataque y daño.
-		+1 en espadas y mazas.
-	Kul Tiras
-		+1 en marinería.
-		Puñetazo fuerte: aturde y desplaza al objetivo hacia atrás hasta 3 metros.
-		+1 en espadas y armas de fuego.
-	Strom
-		+1 carisma e intimidación.
-		+1 en vigor.
-		+1 en espadas y mazas.
-
-
-
+Ventormenta
++1 en tiradas de supervivencia en situaciones de pérdida de control.
+Lordaeron
+Artesanía:
++1 en dos profesiones seleccionadas.
+Dalaran
+Artesanía:
++1 en dos profesiones seleccionadas.
+Gilneas
+Artesanía:
++1 en dos profesiones seleccionadas.
++1 extra en una de las profesiones previamente seleccionadas.
+Alterac
+Artesanía:
++1 en dos profesiones seleccionadas.
+Fiereza guerrera: durante los siguientes tres turnos ganas +2 en tiradas de ataque y daño.
+Kul Tiras
+Puñetazo fuerte: aturde y desplaza al objetivo hacia atrás hasta 3 metros.
+Artesanía:
++1 en dos profesiones seleccionadas.
+Strom
+Artesanía:
++1 en dos profesiones seleccionadas.
 Enano
-	Barbabronce
-		Forma de piedra: en el siguiente turno ignora todo el daño. 
-		+1 en vigor.
-		Búsqueda de tesoros, al usar esta habilidad el narrador debe facilitarle información acerca de tesoros cercanos y como encontrarlo.
-		+1 en hachas y armas de fuego.
-		Visión en la oscuridad.
-	Martillo Salvaje
-		Compañero grifo: los enanos martillo salvaje tienen un compañero grifo y la habilidad para montarlo.
-		+1 en mazas a una mano.
-		Martillo de tormentas: puede arrojar su maza contra un enemigo y aturdirlo durante un turno, la maza regresa a la mano tras el 		impacto.
-		+1 a la resistencia a la naturaleza.
-		+1 en velocidad en zona montañosa.
-		Visión en la oscuridad
-	Hierro Negro
-		Sangrardiente: elimina los efectos dañinos y aumenta el vigor la destreza y las habilidades mágicas en 1.
-		+1 en velocidad en interiores.
-		+2 en herrería.
-		Reduce el daño recibido en 1,25 por nivel redondeado hacia arriba.
-		Visión en la oscuridad.
+Barbabronce
+Forma de piedra: en el siguiente turno ignora todo el daño. 
+Búsqueda de tesoros, al usar esta habilidad el narrador debe facilitarle información acerca de tesoros cercanos y como encontrarlo.
+Visión en la oscuridad. 
+
+Martillo Salvaje
+Compañero grifo: los enanos martillo salvaje tienen un compañero grifo y la habilidad para montarlo.
+Martillo de tormentas: puede arrojar su maza contra un enemigo y aturdirlo durante un turno, la maza regresa a la mano tras el impacto.
++1 en velocidad en zona montañosa.
+Visión en penumbra
+Hierro Negro
+Sangrardiente: elimina los efectos dañinos y aumenta el vigor la destreza y las habilidades mágicas en 1 durante 2 turnos.
++1 en velocidad en interiores.
+Visión en la oscuridad.
 Gnomo
-	Gnomeregan
-		+2 en destreza para desactivar trampas y liberarse de ataduras.
-		+1 en inteligencia.
-		+1 en aprendizaje.
-		+2 en ingeniería.
-		+1 en esquivar.
-		+1 en sigilo.
-		Visión en la oscuridad.
-	Mecándria
-		+2 en destreza para desactivar trampas y liberarse de ataduras.
-		+1 en inteligencia.
-		+1 en aprendizaje.
-		+2 en ingeniería.
-		Visión en la oscuridad.
-		Hologramas: Crea duplicados de luz sólida que mientras esté activo gana +5 en esquivar.
-		Mano de herramientas: Seleccionar de la lista de herramientas de mano cuatro herramientas para incorporar en su brazo.
+Gnomeregan
++2 en destreza para desactivar trampas y liberarse de ataduras.
+Visión en la oscuridad.
+Mecándria
++2 en destreza para desactivar trampas y liberarse de ataduras.
+Visión en la oscuridad.
+Hologramas: Crea duplicados de luz sólida que mientras esté activo gana +5 en esquivar.
+Mano de herramientas: Seleccionar de la lista de herramientas de mano cuatro herramientas para incorporar en su brazo.
 Elfo de la noche (Kaldorei)
-	Darnassiano
-		Fusión con las sombras: +2 en sigilo al usarlo, se cancela en el movimiento.
-		+1 en atletismo.
-		+1 en resistencia a naturaleza.
-		+1 en trato con animales.
-		visión en la oscuridad.
-	Altonato
-		+1 en habilidades mágicas.
-		+1 en destreza
-		+1 en atletismo
-		Visión en la oscuridad.
+Darnassiano
+Fusión con las sombras: +2 en sigilo en zonas de oscuridad o penumbra.
+visión en la oscuridad.
+Altonato
+Visión en la oscuridad.
+
+
 Elfo noble (Quel´Dorei)
-		+1 en habilidades mágicas.
-		+1 en destreza
-		+1 en atletismo
-		+2 en carisma
-		Arte noble: los objetos fabricados obtienen un nivel de calidad más.
+Arte noble: los objetos fabricados obtienen un nivel de calidad más.
 Draenei
-	Exiliado (draenei puro)
-		Ofrenda de los Naruu: gasta un punto de energía y lanza una sanación gratuita 1D6 y obtienen +1 en magia de luz durante dos turnos.
-		+2 en voluntad a sí mismo y +1 en voluntad a los aliados cercanos.
-		+2 en joyería.
-		+1 en vigor.
+Exiliado (draenei puro)
+Ofrenda de los Naruu: gasta un punto de energía y lanza una sanación gratuita 1D6 y obtienen +1 en magia de luz durante dos turnos.
++2 en voluntad a sí mismo y +1 en voluntad a los aliados cercanos.
 
-
-
-
-	Forjado por la luz
-		Forja de luz: los objetos fabricados por los draenei obtienen un encantamiento relacionado con la luz.
-		+1 en resistencia a la luz.
-		Expiación de la luz: al ser derrotado infringe daño a los enemigos, sana 1D4 a los aliados cercanos.
-		+3 de daño contra demonios.
-		Sentencia de la luz: Infringe 1D10 de daño sagrado en área cilíndrica.
-		+1 en vigor. 
-	Man´ari
-		+1 en caos.
-		+1 en vigor.
-		+1 en intimidación.
-		visión en la oscuridad.
-		Autoridad demoníaca:
-		puede dar órdenes a demonios de menor rango.
-		+1 en resistencia vil.
+Forjado por la luz
+Forja de luz: los objetos fabricados por los draenei obtienen un encantamiento relacionado con la luz.
+Expiación de la luz: al ser derrotado infringe daño a los enemigos, sana 1D4 a los aliados cercanos.
++3 de daño contra demonios.
+Sentencia de la luz: Infringe 1D10 de daño sagrado en área cilíndrica.
+Man´ari
+visión en la oscuridad.
+Autoridad demoníaca:
+puede dar órdenes a demonios de menor rango.
 Huargen
-		En forma huargen obtiene +2 en vigor, -2 en carisma, 
-		+1 en percepción +1 en combate sin armas, +2 de atletismo, 
-		+2 en resistencia a las sombras y a la naturaleza.
-		Las heridas se sanan más rápido.
-		Visión en la oscuridad.
-		Un huargen puede correr como un corcel.
-		En forma humana se aplican las raciales humanas de origen (ver humano).
+En forma huargen obtiene +2 en vigor, -2 en carisma, +1 en percepción +1 en combate sin armas, +2 de atletismo, +2 en resistencia a las sombras y a la naturaleza.
+Las heridas se sanan más rápido.
+Visión en la oscuridad.
+Un huargen puede correr como un corcel.
+En forma humana se aplican las raciales humanas de origen (ver humano).
 Elfo de Vacio (Ren´Dorei)
-		+1 en resistencia a lo arcano y sombras.
-		+1 en carisma interactuando con etéreos.
-		+1 en voluntad.
-		Falla espacial: abre un portal a un máximo de 100 metros. 
-		Abrazo entrópico: Cada vez que el elfo del vacio usa una 
-		facultad tira un dado de 10 con una dificultad de 8 si la supera obtendrá 
-		un bonificador en daño y curación en +2 en el siguiente turno, 
-		si esto ocurre no podrá beneficiarse de esta habilidad en los 3 turnos posteriores. 
+Falla espacial: abre un portal a un máximo de 100 metros.
+Abrazo entrópico: Cada vez que el elfo del vacio usa una facultad tira un dado de 10 con una dificultad de 8 si la supera obtendrá un bonificador en daño y curación en +2 en el siguiente turno, si esto ocurre no podrá beneficiarse de esta habilidad en los 3 turnos posteriores. 
+
+
 
 
 Orco
-	Durotar (vil)
-		Furia sanguinaria: +2 de vigor durante 3 turnos, gasta 1 punto de energía por turno activo.
-		+1 en vigor.
-		+1 en resistencia al daño físico.
-		+1 en intimidación.
-		+1 en hachas.
-	Mag’Har (puro)
-		Invocar ancestros: Tira 3 dados de 10 habiendo de superar 4 obtendrás uno de los tres beneficios a elegir:
-		+2 en Vigor. 
-		+2 en destreza. 
-		+2 en habilidades mágicas. 
-		Si obtienes dos éxitos puedes elegir dos, y si obtienes tres éxitos los obtendrás todos.
-		Esta habilidad solo puede ser utilizada una vez por día. 
-		+1 en vigor.
-		+1 en resistencia al daño físico.
-		+1 en intimidación.
-		+1 en hachas.
-		+1 de equitación.
+Durotar (vil)
+Furia sanguinaria: +2 de vigor durante 3 turnos, gasta 1 punto de energía por turno activo.
+Mag’Har (puro)
+Invocar ancestros: Tira 3 dados de 10 habiendo de superar 4 obtendrás uno de los tres beneficios a elegir:
++2 en Vigor. 
++2 en destreza. 
++2 en habilidades mágicas. 
+Si obtienes dos éxitos puedes elegir dos, y si obtienes tres éxitos los obtendrás todos.
+Esta habilidad solo puede ser utilizada una vez por día. 
 Troll
-		Regeneración: pasivamente un trol puede regenerarse 1p. de salud por turno
-		Rabiar: Una vez por combate puede realizar dos acciones ofensivas en el mismo 
-		turno durante tres rondas, el daño directo puede alargar el efecto.
-		+1 en arcos.
-		+1 en armas arrojadizas.
-		Lanza negra
+Regeneración: pasivamente un trol puede regenerarse 1p. de salud por turno
+Rabiar: Una vez por combate puede realizar dos acciones ofensivas en el mismo turno durante tres rondas, el daño directo puede alargar el efecto.
+Lanza negra
 
-		Zandalari
+Zandalari
 
-		Farraki
-			+1 en supervivencia en desiertos.
-		Gurubashi
-			+1 en supervivencia en selvas.
-		Amani
-			+1 en supervivencia en bosques.
-		Trols de hielo (Dun Morogh)
-			+1 en supervivencia en tundra.
-		Drakkari
-			+1 en supervivencia en tundra.
+Farraki
++1 en subsistencia en desiertos.
+Gurubashi
++1 en subsistencia en selvas.
+Amani
++1 en subsistencia en bosques.
+Drakkari
++1 en subsistencia en tundra. 
 Tauren
 
-	Mulgore
-		Pisotón de guerra:
-		+1 en resistencia física
-		+1 de salud.
-		+1 en trato con animales.
-		+1 en herboristería.
-		+1 de vigor.
-	Monte Alto
-		Embestida astada:
-		+1 en destreza.
+Mulgore
+Pegas un pisotón en el suelo y todos los enemigos que estén cuerpo serán derribados.
+Embestida astada: Realizas una carga con intención de embestir con tus cuernos lanza un D10+10 para determinar los metros de avance y 1D8 de daño contundente por cada enemigo que alcances.
+Monte Alto
+Pegas un pisotón en el suelo y todos los enemigos que estén cuerpo serán derribados.
+Embestida astada: Realizas una carga con intención de embestir con tus cuernos lanza un D10+10 para determinar los metros de avance y 1D8 de daño contundente por cada enemigo que alcances.
 No-Muerto
-		+2 de voluntad frente a embelesamientos o intentos de control mental.
-		No sufren penalizaciones de respiración.
-		Visión en la oscuridad.
++2 de voluntad frente a embelesamientos o intentos de control mental.
+No sufren penalizaciones de respiración.
+Visión en la oscuridad.
 Ogro
-		+3 en vigor
-		penalización en tiradas en -2 en inteligencia
-		+2 de salud
-		Puño aturdidor: aturde al objetivo durante 2 turnos.
+penalización en tiradas en -2 en inteligencia
+Puño aturdidor: aturde al objetivo durante 2 turnos.
 Goblin
-		+1 en subterfugio
-		Tromba de cohetes:
-		+2 de ingeniería.
-		+2 de carisma para obtener descuentos.
+Tromba de cohetes: Lanza 1D6 de Cohetes que caerán sobre un área designada, lanza un D8 de daño de fuego por cada impacto.
++2 de Diplomacia para obtener descuentos.
 Elfo de sangre (Sin´Dorei)
-		+1 en resistencia a la magia.
-		+1 a elegir entre taumaturgia, Corrupción o fe.
-		+1 en encantamiento.
-		Torrente arcano: lanza un área que silencia a los enemigos durante un turno.
+Torrente arcano: lanza un área que silencia a los enemigos durante un turno.
 Nocheterna (Shal´Dorei)
-		+1 en inscripción.
-		+1 en resistencia mágica.
-		+1 en daño mágico.
-		Escudo de fuerza: Crea un área arcana que hace 1D6 de daño y repele a los enemigos durante 1 turno.
-		Visión en la oscuridad.
++1 en daño mágico.
+Escudo de fuerza: Crea un área arcana que hace 1D6 de daño y repele a los enemigos durante 1 turno.
+Visión en la oscuridad.
 Pandaren
-		+2 en cocina.
-		mullido: reduce daño contundente a la mitad.
-		+1 en bastones.
-		+1 en sin armas.
-		+1 en habilidades físicas si está bien alimentado.
+mullido: reduce daño contundente a la mitad.
++1 en habilidades físicas si está bien alimentado.
 Vulpera
-
+Hurgar: Busca en tu bolsa de trucos utilidades que puedan ayudarte a ti o a tus compañeros.
+Bolsa de trucos: usa el objeto que has sacado de la bolsa de trucos.
 Dracthyr
-	Despierto
-	Ojo Perceptivo
-	Planear
-	Flagelo de cola
-	Rostro
-	Sacudida de alas
+
+Planear: en mitad de una caída un Dracthyr puede desplegar las alas para evitar recibir daño de caída.
+Flagelo de cola: Golpe de cola a distancia cuerpo a cuerpo que hace 1D6 de daño contundente a los enemigos que rodeen al Dracthyr.
+Rostro: Capacidad de cambiar de forma entre forma dracónica y una forma humana.
+Sacudida de alas:
+Potente sacudida de alas que repele a los enemigos frente al Dracthyr 1D6 metros.
+
